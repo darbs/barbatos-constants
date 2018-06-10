@@ -1,7 +1,11 @@
 package constants
 
 const (
-	EntityUpdateExchange = "atlas_entity_exchange"
+	AtlasEntityExchange = "atlas.entity.exchange"
 	LocationUpdateKey = "location"
-	EntityUpdateConsumer = "entity.update.queue"
+	AtlasEntityUpdateQueue = "atlas.entity.update.queue"
+
+	AtlasLocaleExchange = "atlas.locale.exchange"
+	LocaleUpdateKey = "locale"
+	AtlasLocaleUpdateQueue = "atlas.locale.update.queue"
 )
