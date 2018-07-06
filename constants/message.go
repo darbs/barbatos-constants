@@ -12,5 +12,5 @@ const (
 
 	AtlasCommandExchange = "atlas.command.exchange"
 	AtlasRpcKey = "rpc"
-	AtlasCommandQueue = "atlas-command-queue"
+	AtlasCommandQueue = "atlas.command.queue"
 )
